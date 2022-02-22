@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A conciliatoy [sic] judgment concerning Dr. Crisp's sermons and Mr. Baxter's dissatisfactions in them by T. Beverley.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27593</idno>
+            <idno type="STC">Wing B2135</idno>
+            <idno type="STC">ESTC R23688</idno>
+            <idno type="EEBO-CITATION">07873850</idno>
+            <idno type="OCLC">ocm 07873850</idno>
+            <idno type="VID">40235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40235)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1195:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A conciliatoy [sic] judgment concerning Dr. Crisp's sermons and Mr. Baxter's dissatisfactions in them by T. Beverley.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Marshall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crisp, Tobias, 1600-1643.</term>
+               <term>Baxter, Richard, 1615-1691.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40235:1" rendition="simple:additions"/>
+            <p>A Conciliatoy Judgment CONCERNING <hi>Dr. Criſps</hi>'s <hi>Sermons.</hi> AND Mr. <hi>BAXTER'S</hi> Diſſatisfa<g ref="char:EOLhyphen"/>ctions in Them.</p>
+            <p>By <hi>T. Beverley,</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed, and Sold by <hi>William Marſhall</hi> at the Bible in <hi>Newgate-ſtreet,</hi> where you may be ſupplied with the Scrip<g ref="char:EOLhyphen"/>ture Line of Time, and the other pieces of the ſame Au<g ref="char:EOLhyphen"/>thors. 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40235:2"/>
+            <pb n="3" facs="tcp:40235:2"/>
+            <head>A Conciliatory Judgment concerning Dr. <hi>Criſps</hi>'s Sermons, and Mr. <hi>Baxter</hi>'s Diſ<g ref="char:EOLhyphen"/>ſatisfactions in them.</head>
+            <p>AN Interpoſal in this Caſe is Nice and Tender, whe<g ref="char:EOLhyphen"/>ther we conſider the perſons concern'd, or the Caſe it ſelf.</p>
+            <p>If we conſider the perſons, They are Dr. <hi>Criſps</hi> in his <hi>Memory,</hi> who being a Perſon <hi>Diſſolv'd,</hi> and as we have Great Reaſon to be aſſur'd, with Chriſt in <hi>Spirit</hi> near theſe Fifty years, and who being <hi>Dead, yet ſpeaketh,</hi> His <hi>Memory</hi> ought to be precious to us, and to be embalm'd with Honour: On the other ſide is Mr. <hi>Baxter,</hi> grown now in his excellent Miniſte<g ref="char:EOLhyphen"/>rial Labours of all Kinds, <hi>Such a one,</hi> as the <hi>Aged Servant of Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> and a <hi>Father:</hi> Great Eſtimation, Reverence, and Tendereſt Regard are therefore due to Him.</p>
+            <p>If we conſider the Caſe it ſelf, it Requires much Greater Caution; For it is a ſeeming Controverſie between the <hi>Juſtifi<g ref="char:EOLhyphen"/>cation,</hi> and the <hi>Sanctification</hi> of the <hi>Goſpel,</hi> betwixt <hi>Juſtifying Faith,</hi> and <hi>Good works.</hi>
+            </p>
+            <p>Notwithſtanding the Great Nicety, and Caution, neceſſa<g ref="char:EOLhyphen"/>ry to be us'd, I am yet moſt deſirous to Contribute my utmoſt ſervice, to mediate betwixt a Dead, and a Living Servant of Chriſt, as alſo to fix the Scituation, and order of Two ſo Great Points of Chriſtian Religion, and thereby to conciliate the Two <hi>Miniſteries</hi> before us.</p>
+            <p>And certainly in the firſt place, the ſo often calling the <hi>Righteouſneſs of Christ,</hi> by which we are <hi>Juſtified,</hi> the <hi>Righteouſ<g ref="char:EOLhyphen"/>neſs of God,</hi> does without any more words, determine it to be our ſupreme, not only <hi>Righteouſneſs,</hi> but <hi>Holineſs;</hi> And no di<g ref="char:EOLhyphen"/>ſtinctions, or Limitations can dethrone, or confine it: If it be divine, It muſt be Infinite, and Supreme; And All <hi>Inherent Righteouſneſs</hi> of Faith, Repentance, Sanctification, or what<g ref="char:EOLhyphen"/>ever names of Qualification of the perſons, who Receive it, can be no more, then the Wiſe and Holy <hi>Oeconomy</hi> of that Su<g ref="char:EOLhyphen"/>preme <hi>Righteouſneſs,</hi> that ſo manages, and fits the Perſon, to whom it communicates it ſelf to a Fitneſs, and Agreeableneſs
+<pb n="4" facs="tcp:40235:3"/> to ſo High a Communication; If it be Divine and Infinite, All muſt flow from it; nothing can be Brought, or Added to it.</p>
+            <p>Now that it is Divine, is out of meaſure clear by Jeſus Chriſt, being ſtyl'd <hi>Jehovah our Righteouſneſs, Jerem.</hi> 23.6. by the <hi>Apoſtle Paul</hi>'s ſo often calling the <hi>Righteouſneſs of Chriſt,</hi> the <hi>Righteouſneſs of God,</hi> Rom. 3.21.22. 2 Cor. 5.21. Phil. 3.6. This then being once declar'd, fully determines the Caſe; That this <hi>Righteouſneſs</hi> is the Supreme <hi>Righteouſneſs,</hi> and <hi>Holy<g ref="char:EOLhyphen"/>neſs</hi> alſo, to whom ſoever it is a <hi>Righteouſneſs;</hi> And no Reſtri<g ref="char:EOLhyphen"/>ctions can be Receiv'd to the diminution of it, nor can any Thing be ſpoken too High, too Great, too much of it: For what is our <hi>Righteouſneſs</hi> is alſo that <hi>Holineſs,</hi> by which we ſtand Accepted before God, ſeeing <hi>Righteouſneſs,</hi> and <hi>Holineſs</hi> are the ſame, the <hi>Abundance</hi> of which we <hi>Receive</hi> by <hi>Grace</hi> and <hi>Free Gift.</hi>
+            </p>
+            <p>Now that it can <hi>come to us, upon us,</hi> that we may be <hi>Found in Chriſt,</hi> and have not <hi>our own,</hi> but it; that we are made the <hi>Righteouſneſs of God</hi> by it, that it is <hi>Imputed to us;</hi> are all Scrip<g ref="char:EOLhyphen"/>ture Expreſſions, Aſſuring, It may be made ours; And what<g ref="char:EOLhyphen"/>ever is divine, where it Communicates to us it ſelf, is ſo Uni<g ref="char:EOLhyphen"/>tive, that it is nearer to us, then we our ſelves, or any Thing of ours can be to our ſelves.</p>
+            <p>It nevertheleſs follows, That this <hi>Righteouſneſs</hi> prepares for it ſelf by Humiliation, by Faith, by Repentance, a Recepti<g ref="char:EOLhyphen"/>on ſuitable to it ſelf in the perſon, who is to Receive it, but ſo that theſe Things are not offered in Sacrifice to the <hi>Righte<g ref="char:EOLhyphen"/>ouſneſs of Chriſt</hi> to encline, or draw it, but are wholly from it by Emanations, Emiſſions, divine <hi>Effluviums</hi> from it ſelf, winning, Atracting, and uniting that Spirit to it, to which it is pleas'd to unite it ſelf; And where it is pleas'd ſo to be united, it Prints, and Enſtamps its own <hi>Image</hi> upon the Heart, and Life by <hi>Sanctification.</hi>
+            </p>
+            <p>And Theſe Things are All done by ſo Infallible and Inſepara<g ref="char:EOLhyphen"/>ble an Efflux from Chriſt, that a Thouſand Times ſooner may the Beams be cut off from the Sun, the ſtreams from the Fountain, then the inward <hi>Holineſs,</hi> and <hi>Righteouſneſs</hi> of Faith, Repentance, the new Creation and good works can be cut off from the <hi>Righteouſneſs of Chriſt,</hi> imputed to any Perſon.</p>
+            <p>But withal it is to be known, that the Communication in this Life is but to ſuch degrees, and theſe ſo various, and in the Beſt, Leaving a Body of Sin, and Death, that as till the very <hi>Kingdom of Redemption,</hi> There is not a perfect <hi>waſhing of the
+<pb n="5" facs="tcp:40235:3"/> Robes</hi> of <hi>Saints</hi> in the <hi>Blood of the Lamb;</hi> ſo there is not a perfect Communication of the <hi>Image</hi> of that <hi>Righteouſneſs</hi> in <hi>Holineſs;</hi> So that That <hi>Righteouſneſs</hi> depended upon by Faith, and wit<g ref="char:EOLhyphen"/>neſs'd by the Spirit, is our only Title to <hi>Righteouſneſs;</hi> and yet the Signatures of <hi>Holineſs,</hi> the clearer They are, the Great<g ref="char:EOLhyphen"/>er is the Evidence, that <hi>Righteouſneſs</hi> is ours; and the more Cloudy they are, the Greater Reaſon of doubt, and fear, It is not ours, and therefore the more Earneſt ought the Applica<g ref="char:EOLhyphen"/>tion to be, that we may have the more lively Impreſſes of it ſelf upon us; And in that ſuppoſed Juſtification, or Title to the <hi>Righteouſneſs</hi> of Chriſt, as ours, made good by Faith, and <hi>Holineſs;</hi> The <hi>Righteouſneſs</hi> of Chriſt is ſtill Supreme; For the Image, the Reflex, or Reverſe of that <hi>Righteouſneſs imputed,</hi> is Chriſts owning us, as His, and <hi>Juſtified</hi> by Him; Hence is our humble Appeal to God in Him, that it is ſo: But Chriſt firſt owns his Servants Graces, as Appears, <hi>Mat.</hi> 25.35. <hi>I was an Hunger'd, &amp;c.</hi> They plead <hi>His Righteouſneſs only.</hi>
+            </p>
+            <p>And even when this <hi>Righteouſneſs</hi> is indeed communicated, There is always Uprightneſs, and Sincerity; but ſtill the Eye of a Mans Spirit is turn'd by the Spirit of God, ſo to this <hi>Righ<g ref="char:EOLhyphen"/>teouſneſs,</hi> that when <hi>It is in Darkneſs,</hi> and <hi>ſees no Light,</hi> It moves to it, and againſt <hi>Hope believs in Hope;</hi> and when it ſees no other Light, It <hi>Truſts in the Name of the Lord,</hi> and <hi>Stays on its God,</hi> which is certainly from the divine <hi>Witneſs</hi> of the <hi>Spirit</hi> of God to a Man's <hi>Spirit,</hi> that He is Chriſts.</p>
+            <p>If it ſhould be ſaid, the State of the <hi>Righteouſneſs</hi> of Chriſt thus Communicating it ſelf, ſeems not to agree with ſo Great parts of <hi>Scripture,</hi> inſiſting upon <hi>Holineſs</hi> of Heart and Life; And there are but ſome choſen places of <hi>Scripture,</hi> that ſpeak of the <hi>Righteouſneſs of Chriſt;</hi> Our great work therefore ſeems to be in minding inward and active <hi>Righteouſneſs,</hi> that we may be <hi>Righteous</hi> according to 1 <hi>John</hi> 3.7. Be not <hi>deceiv'd, He that doth Righteouſneſs</hi> is <hi>Righte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us,</hi> even as <hi>He is Righteous.</hi>
+            </p>
+            <p>It is very True, a Greater Proportion of <hi>Scripture</hi> is taken up in Rules of <hi>Holineſs,</hi> Precepts, Commands, Promiſes, Threatnings, Exhortations, Expoſtulations, Reproofs preſſing hereunto, in regard of the variety of perſons, and of Caſes herein concern'd; and that there might be a Vindication of of the Holineſs, and Purity of the Salvation of Chriſt before <hi>Natural Conſcience,</hi> and againſt the Enemies of Grace: Further, ſo many <hi>Scriptures</hi> preſſing to Holineſs, are Barriers, that pro<g ref="char:EOLhyphen"/>phane
+<pb n="6" facs="tcp:40235:4"/> and unholy Men, who <hi>Hate to be Reform'd,</hi> and Hypo<g ref="char:EOLhyphen"/>crites may not preſume upon an Intereſt in Chriſt, and his <hi>Righteouſneſs,</hi> till they Find their Hearts chang'd; But eſpeci<g ref="char:EOLhyphen"/>ally, <hi>Scripture</hi> is ſo large in all theſe Methods of perſwading Men to Holineſs, becauſe They are ſerviceable to that <hi>Oecono<g ref="char:EOLhyphen"/>my</hi> of Grace, that moves and acts upon the Intellectual Spirit of Man Rationally, while it Supremely moves, and Subordi<g ref="char:EOLhyphen"/>nates it thereby to its own operations: And Secondarily, Theſe Abundant diſcourſes of Holineſs, ſhew to Man his own Unrighteouſneſs by his ſo Great Falls, Failings, and Imper<g ref="char:EOLhyphen"/>fections, even under the <hi>Covenant of Grace;</hi> That <hi>Boaſting</hi> in Regard of <hi>Sanctification</hi> under that Grace may be excluded, and we may <hi>make mention of the Righteouſneſs</hi> of the Lord, and <hi>Glory</hi> in that Alone.</p>
+            <p>But then that ſo little Comparatively is ſpoken of the <hi>Righ<g ref="char:EOLhyphen"/>teouſneſs of Chriſt;</hi> Though very much, and very Great is ſpoken of it, is, becauſe All divine is ſimple, clear, One, ſpo<g ref="char:EOLhyphen"/>ken of, as it were at once; and as the <hi>Being,</hi> and <hi>Attributes of God,</hi> though often ſpoken of, need not many words at a time, but are to be eſpecially Meditated upon; Even ſo, though up<g ref="char:EOLhyphen"/>on occaſion, the <hi>Righteouſneſs of Chriſt</hi> requires larger Diſcour<g ref="char:EOLhyphen"/>ſes, as <hi>Rom. c.</hi> 3. <hi>c.</hi> 4. <hi>c.</hi> 5. <hi>Gal. c.</hi> 2. <hi>c.</hi> 3. <hi>c.</hi> 4. <hi>Epheſ. c.</hi> 1. <hi>c.</hi> 2. <hi>Philip. c.</hi> 3. Yet it is rather continually ſpoken of, as our only Foundation and Hope, and always imply'd.</p>
+            <p>This <hi>Righteouſneſs</hi> then being Infinite, Therefore <hi>Juſtification</hi> by it is Attributed to <hi>Faith without works,</hi> becauſe an <hi>Infinite Righteouſneſs</hi> can be only Receiv'd, and not Aided by our works, it can only be believ'd in, not help'd out by any thing in us.</p>
+            <p>If it be ſaid, the <hi>Apoſtle James</hi> ſeems to have decided the Point much otherwiſe by Aſſerting, <hi>Faith</hi> does not, nor can <hi>Juſtifie</hi> or ſave without <hi>Works:</hi> And if ſo, then it muſt follow, Not the <hi>Righteouſneſs of Christ</hi> only, but <hi>Works of Sanctification,</hi> under that, are our <hi>Righteouſneſs</hi> alſo, and Conditions of our <hi>Juſtification,</hi> as our Acts and Works; And ſo this notion of the <hi>Righteouſ<g ref="char:EOLhyphen"/>neſs of Chriſt</hi> being Infinite, and giving Room to no other <hi>Righ<g ref="char:EOLhyphen"/>teouſnes</hi> cannot Hold.</p>
+            <p>To that I Anſwer, To any Attent Conſiderer of that <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> diſcourſe, It will be found; He does not diſcourſe of <hi>Faith,</hi> and <hi>Works,</hi> as Two diſtinct compleat things, but as Two parts of one, and the ſame Thing compleat; <hi>viz.</hi> A compleat
+<pb n="7" facs="tcp:40235:4"/> 
+               <hi>Faith;</hi> As if we diſcourſe of the Body, and Spirit of a Man; It is not a diſcouſe of Two compleat Beings, but of that one compleat Being, Man, compounded of Body, and of Spirit: Of this we may find Great proof in many Expreſſions, and in the laſt verſe, the Key of All; As the <hi>Body without the Spirit is dead,</hi> ſo <hi>Faith without Works is dead alſo.</hi> James 2. laſt.</p>
+            <p>Now in Faith, there is the outward Profeſſion, or, as we call it, <hi>Confeſſion of Faith,</hi> which the Apoſtle Intimates in thoſe words; Thou believeſt, <hi>There is one God,</hi> with which <hi>Article Confeſſions of Faith</hi> generally begin; and this Confeſſion, tho' the <hi>Body of Faith</hi> only, the Apoſtle calls <hi>Faith,</hi> as we Vulgarly ſpeaking, call the <hi>Body</hi> oftneſt, the <hi>Man:</hi> But then there is the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the Apoſtle <hi>Paul</hi> calls it, the <hi>Work of Faith with Power,</hi> 2 <hi>Theſ.</hi> 1.11. or as the Apoſtle <hi>James</hi> ſpeaks the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the works, <hi>viz.</hi> of <hi>Faith;</hi> With which <hi>Faith,</hi> Thoſe <hi>Works</hi> of <hi>Faith</hi> are to be cloſe connected, and underſtood only of <hi>Faiths</hi> own <hi>Works.</hi> And the difference between <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Work</hi> in the Apoſtle <hi>Paul,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Works</hi> in the Apoſtle <hi>James,</hi> makes no more difference, then <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Works</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Work</hi> in the Apoſtle <hi>Paul</hi> himſelf, <hi>Rom.</hi> 11.6. in another caſe.</p>
+            <p>Now this <hi>Work of Faith with Power</hi> is ſuch, that when the whole Reſult ſhall be ſeen in the High <hi>Operation</hi> of True <hi>Faith,</hi> in relation to <hi>Juſtification, Sanctification,</hi> and <hi>Glorification;</hi> It will be ſeen to the Admirable Glory of God in Chriſt, in his <hi>Saints,</hi> and of their Glory in Him; for the Holineſs, Wiſdom, and yet infinite Grace of all, to the Admiration of All <hi>Angels</hi> and <hi>Saints,</hi> and Confuſion of Devils and wicked Men, as <hi>v.</hi> 10. and 12. compar'd, make out.</p>
+            <p>Now theſe Two, the <hi>Confeſſion of Faith,</hi> and the <hi>Work of Faith</hi> are, as I may call it, <hi>Hypoſtatically,</hi> or as it were <hi>Perſonally united; Confeſſion</hi> the <hi>Body; Work</hi> and <hi>Power,</hi> or <hi>Works</hi> the <hi>Spirit;</hi> And when they are thus united, The <hi>Confeſſion Works</hi> with that <hi>Operation of Faith,</hi> or <hi>Vis Effectrix,</hi> that <hi>Spirit of Faith,</hi> as the Body works with the Mind, or the inſtrument with the Work-man, and thereby the <hi>Confeſſion of Faith</hi> is perfected into a compleat <hi>Faith,</hi> by being thus united with the <hi>Works of Faith.</hi>
+            </p>
+            <p>Now to ſhew This was the <hi>Apoſtles</hi> meaning; He does not inſtance in the <hi>Works</hi> of a Holy, Regular Converſation accor<g ref="char:EOLhyphen"/>ding to the <hi>Moral Law,</hi> but in Two Solitary, Single, Emi<g ref="char:EOLhyphen"/>nent, and Extraordinary Acts of <hi>Abraham,</hi> and <hi>Rahab;</hi> and ſuch, as the general Face of the <hi>Moral Law</hi> would rather <hi>Condemn,</hi> then <hi>Juſtifie</hi> upon.</p>
+            <pb n="8" facs="tcp:40235:5"/>
+            <p>But as the Firſt, and <hi>Specific</hi> Act of <hi>Juſtifying Faith,</hi> is <hi>Appre<g ref="char:EOLhyphen"/>hending the Righteouſneſs of Chriſt,</hi> for whieh it is firſt <hi>Apprehend<g ref="char:EOLhyphen"/>ed of Chriſt,</hi> and ſo <hi>Juſtifies</hi> by this <hi>Righteouſneſs of Chriſt, Appre<g ref="char:EOLhyphen"/>hended</hi> by this <hi>Operation.</hi> From which <hi>Operation</hi> of <hi>Apprehending Christ,</hi> if the <hi>Confeſſion</hi> be divided, it cannot <hi>Juſtifie,</hi> becauſe it miſſes the <hi>Righteouſneſs of Christ.</hi>
+            </p>
+            <p>Even ſo the <hi>Apoſtle</hi> Inſtances in Acts of <hi>Abraham,</hi> and <hi>Rahab</hi>'s <hi>Faith,</hi> that were nearly Related to Chriſt, and as it were a Mirrour of Chriſt <hi>Apprehended,</hi> viz. <hi>Abraham's offering Iſaac,</hi> ſo Great a Type of the <hi>Sacrifice of Christ;</hi> and <hi>Rahab's Receiv<g ref="char:EOLhyphen"/>ing</hi> the People of the <hi>Promiſed Meſſiah,</hi> under whom ſhe deſir'd ſhelter from the common <hi>Wrath,</hi> coming on her <hi>Own People;</hi> So that <hi>Thread</hi> of <hi>Typical Scarlet, Purifying Sin</hi> was given her as a <hi>Type</hi> of the <hi>Blood of Christ.</hi>
+            </p>
+            <p>Now the occaſion of all this diſcourſe Appears to be, to make good, that the True <hi>Faith</hi> of the <hi>Lord Jeſus Chriſt,</hi> the <hi>Lord of Glory,</hi> that hath that Firſt work of <hi>Seeing,</hi> and <hi>Receiv<g ref="char:EOLhyphen"/>ing</hi> Him ſo eſſential to it, hath ſuch a ſight of him, and of his Glory, that it puts Glory on the meaneſt Chriſtians, ſo that Chriſt in them is highly <hi>Precious,</hi> though without the Worlds Trappings of Glory, becauſe of Chriſt in them, whieh <hi>Faith ſeeing Chriſt</hi> hath always in its Eye. <hi>c.</hi> 2. <hi>v.</hi> 1. <hi>&amp;c.</hi>
+            </p>
+            <p>But if any One think this Explication too narrow, though I am much perſwaded, deep Conſideration will be ſatisfied; and the rather, becauſe the <hi>Trembling</hi> of the <hi>Devils Confeſſionary Faith</hi> of God, that hath no operation into the <hi>Mediator</hi> is op<g ref="char:EOLhyphen"/>pos'd to the Reſt, a <hi>Juſtifying Faith</hi> in Chriſt gives. Yet if any One think it too narrow, He may enlarge it by conſidering, that from the <hi>Righteouſneſs of Chriſt</hi> in his <hi>Death,</hi> and <hi>Reſurrecti<g ref="char:EOLhyphen"/>on, Juſtification,</hi> and <hi>Sanctification Flow as in an Hypoſtolick <g ref="char:V">Ʋ</g>nion;</hi> So the <hi>Faith</hi> that receives the one, Receives the other: and That <hi>Faith</hi> which hath that <hi>Specific Operation</hi> of <hi>Receiving Chriſt,</hi> By that <hi>Operation,</hi> it hath Receiv'd therein, can in All other Things Act like it ſelf; and as it <hi>Receives</hi> the <hi>Righteouſneſs of Chriſt,</hi> ſo it Receives the <hi>Image</hi> of it, in which All <hi>Good Works</hi> lye Treaſur'd. <hi>Epheſ.</hi> 2.10. But ſeeing the Apoſtle <hi>Paul</hi> hath once ſo Fully, and Expreſly Aſſerted to <hi>Faith,</hi> that it Juſtifies in <hi>Receiving Chriſt,</hi> and the <hi>Abundance of Grace,</hi> and the <hi>Gift of Righteouſneſs from Him;</hi> It can never be diſmounted from that dignity, but whatever is ſaid to <hi>Juſtifie,</hi> muſt be ſo <hi>Perſonally united</hi> with <hi>Faith, Receiving Chriſts Righteouſneſs,</hi> as to <hi>Juſtifie</hi>
+               <pb n="9" facs="tcp:40235:5"/> only, as it is ſo united to <hi>Faith,</hi> and <hi>Faith</hi> to Chriſt. For as <hi>Infinite Righteouſneſs</hi> can have no Additions of any other <hi>Righ<g ref="char:EOLhyphen"/>teouſneſs;</hi> So there can be nothing added to <hi>Believing</hi> in it, but what muſt fall into the Eſſence of <hi>Believing</hi> or <hi>Receiving,</hi> in this point of <hi>Juſtification:</hi> For elſe ſomething muſt be added to the <hi>Righteouſneſs</hi> it ſelf, which cannot be, if it be, an <hi>Infinite Righ<g ref="char:EOLhyphen"/>teouſneſs,</hi> without a Contradiction. And even this <hi>Faith</hi> can not be Rais'd out of our ſelves, but is from the Beams of that <hi>Righteouſneſs</hi> ſhining about the <hi>Heart,</hi> the Spirit <hi>Strength<g ref="char:EOLhyphen"/>ning</hi> the <hi>Inner Man,</hi> and drawing it to Chriſt, that he may dwell in it.</p>
+            <p>I come then to the Concluſive point, the Reconciling Dr. <hi>Criſps's Sermons</hi> with Mr. <hi>Baxter;</hi> In order to which, I make theſe obſervations.</p>
+            <p n="1">1. God gives to the Variety of his Servants a diverſified poiz of Spirit; In ſome it comes neareſt to the <hi>Sons of Thun<g ref="char:EOLhyphen"/>der;</hi> In others to the <hi>Sons of Oyl,</hi> or <hi>Conſolation.</hi> Thus the Apo<g ref="char:EOLhyphen"/>ſtle <hi>James</hi> in his <hi>Epiſtle,</hi> is as a <hi>Son of Thunder;</hi> the <hi>Apoſtle Paul</hi> in the <hi>Doctrine</hi> of <hi>Free Grace,</hi> as a Son of Conſolation; But in both theſe Two Breathed <hi>One,</hi> and the ſame <hi>Spirit, Dividing</hi> to each, as it pleaſed Him: And ſo I doubt not in theſe Two Eminent Miniſters of Chriſt; The ſame Spirit hath wrought, wherein their way of Preaching or Writing ſeems to differ moſt, abating to each Humane Infirmity, and not Attribu<g ref="char:EOLhyphen"/>ting to either the <hi>Infallible Spirit,</hi> that Guided the Writers of Scripture in their writing.</p>
+            <p n="2">2. I obſerve in Scripture, the Spirit often in the Point it is upon, moves ſtrait forward, and in a Stream like a Torrent, and takes notice of nothing, to hinder, but hath in due place Ballanc'd every Truth, one with another.</p>
+            <p>Thus the <hi>Apoſtle Paul</hi> moves on in the Doctrine of <hi>Juſtifica<g ref="char:EOLhyphen"/>tion of the ungodly</hi> by <hi>Faith in Chriſt</hi> without <hi>Works, Rom. c.</hi> 3. <hi>c.</hi> 4. <hi>c.</hi> 5. and then <hi>c.</hi> 6. conſiders, and Fore-prizes the bad conſequences that may be drawn from it.</p>
+            <p>The <hi>Apoſtle James</hi> dictated to by the ſame Spirit, even de<g ref="char:EOLhyphen"/>rides a <hi>Confeſſion of Faith,</hi> that hath not <hi>Works,</hi> that is, an effe<g ref="char:EOLhyphen"/>ctive Power of doing Things like it ſelf, as utterly Impotent, to <hi>Juſtifie</hi> or <hi>Save,</hi> becauſe it Receiving none of the mighty Influences of the <hi>Righteouſneſs of Chriſt,</hi> it is thence Evident, it hath not Receiv'd that <hi>Righteouſneſs</hi> it ſelf; And herein the <hi>Spirit</hi> in the <hi>Apoſtle James</hi> runs ſo high, as to offer a ſeeming Con<g ref="char:EOLhyphen"/>tradiction
+<pb n="10" facs="tcp:40235:6"/> to it ſelf in the <hi>Apoſtle Paul,</hi> and Leaves to the <hi>Search<g ref="char:EOLhyphen"/>ers of Scripture</hi> to find the True Key of the Intrepretation.</p>
+            <p>But herein was no Cauſe to either <hi>Apoſtle</hi> to be offended one with Another, or for the Readers of either to be offended with either of them, but they are to lay both together, and there<g ref="char:EOLhyphen"/>by to deduce the whole Scripture Truth.</p>
+            <p>In the very ſame matter, though not with ſo high a Defe<g ref="char:EOLhyphen"/>rence to either of theſe Two <hi>Miniſters of Jeſus Chriſt;</hi> All which, They both have ſpoken according to the Truth of Chriſt, is to be laid together; and neither part to be conſider'd princi<g ref="char:EOLhyphen"/>pally, as from them, but as from one and the ſame Spirit, Guiding both in each part of Truth, according to his word, and the Diſpenſation committed to each of them; One ſingly, and Solely exalting the <hi>Righteouſneſs of Jeſus Chriſt,</hi> as our whole Foundation, and Comfort, and in Caſes of Great diffi<g ref="char:EOLhyphen"/>culty, and darkneſs to be Reſted upon alone; and yet always implying, and many times Expreſſing, and never contradicting that this <hi>Righteouſneſs of Chriſt</hi> Flows out with all Holineſs; The other more inſiſting upon the <hi>Righteouſneſs of Chriſt</hi> in its Impreſs of <hi>Mortification,</hi> by <hi>Conformity to his Death,</hi> and of <hi>San<g ref="char:EOLhyphen"/>ctification</hi> by the <hi>Power of his Reſurrection;</hi> The one moſt neceſſa<g ref="char:EOLhyphen"/>ry, when Conſcience hath to do with God; The other neceſ<g ref="char:EOLhyphen"/>ſary in the Courſe of a Chriſtian Converſation.</p>
+            <p>But it muſt be Acknowledg'd, the <hi>Increated Righteouſneſs of Chriſt</hi> being infinite, and all <hi>Inherent Righteouſneſs</hi> conſider'd as ours, and diſtinct from Chriſt's, from which yet it can never be ſeparated, being Created; and not only ſo, but very Scanty, and imperfect; the <hi>Righteouſneſs</hi> of Chriſt is moſt Radical, and the Standard, by which all <hi>Inherent Righteouſneſs</hi> muſt in the diſcourſe of it be Bounded; and wherever the <hi>Righteouſneſs</hi> of <hi>Chriſt</hi> is <hi>Receiv'd, Holineſs</hi> infallibly follows; whereas a ſeem<g ref="char:EOLhyphen"/>ingly good Converſation often miſſes that Root; But far be it to ſuppoſe, Mr. <hi>Baxer</hi> in all his diſcourſes, preſſing <hi>Mortifica<g ref="char:EOLhyphen"/>tion,</hi> and <hi>Holineſs</hi> hath not ſo <hi>Learnt,</hi> and ſo taught, as the <hi>Truth is in Jeſus,</hi> that His <hi>Righteouſneſs</hi> is our alone <hi>Juſtification.</hi>
+            </p>
+            <p>But I am much perſwaded, Dr. <hi>Criſp</hi> was rais'd up on pur<g ref="char:EOLhyphen"/>poſe by God to Break that <hi>Box</hi> of <hi>Spikenard,</hi> that ſent out ſo High, and <hi>Sweet a ſavour of Christ;</hi> And I do not perceive, He attain'd that Height of his Miniſtery, till the latter end of it; ſo I Collect from the <hi>Additional Sermons,</hi> which are not of ſo Rich a <hi>Savour of thoſe Good Oyntments;</hi> And ſpeedily after,
+<pb n="11" facs="tcp:40235:6"/> He attained that Height, God <hi>Took</hi> Him, even early out of the World: For but a little of ſo Great a Cordial God Al<g ref="char:EOLhyphen"/>lotted the World; And if any ſay, why did not Dr. <hi>Criſp</hi> Ballance that Doctrine of Chriſt, with the Treaty of other Scriptures, preſſing <hi>Holineſs,</hi> it may very well be Anſwer'd; The Preaching of Chriſt was his peculiar <hi>Miniſterial Lot,</hi> and <hi>Talent,</hi> Aſſign'd him by God, as in the fore-nam'd differences of <hi>Holy Writers.</hi> And He is not to be conſider'd as alone in the Hand of Chriſt, or as a ſingle Star, but with all the other <hi>Stars,</hi> by whom the Holy Spirit hath Abundantly written, what may Ballance his preaching of Chriſt ſo ſingly, and wholly; For tho' He, and They are ſeveral Men to us, and their preach<g ref="char:EOLhyphen"/>ing ſeveral; yet They are All <hi>Stars</hi> together in the Hand of Chriſt, and the Truth taken together one; Though the Truth He preach'd was certainly of the Higheſt Orb, and it ſhall be Remembred to his Honour, when the <hi>Everlaſting Goſpel</hi> is <hi>Preach'd.</hi>
+            </p>
+            <p>For I am much perſwaded, as the Preaching theſe Sermons was before a notable Breaking out of Goſpel Light, and Truth, and a Dawn of the <hi>Kingdom of Christ</hi> in his <hi>Redemption;</hi> Not concerning my ſelf in the civil differences of that Time, nor the miſcarriges of wild opinions; So I cannot but hope, The <hi>Reprinting</hi> of theſe <hi>Sermons</hi> is order'd by <hi>Providence,</hi> as a Fore-Running of a much Clearer opening of that <hi>Kingdom of Redemption,</hi> in preparation whereunto, the <hi>Song of Redemption</hi> ſhall be, as it were, a <hi>New Song</hi> ſet to a Higher <hi>Elah;</hi> even when the <hi>Fourty Two Months</hi> of the <hi>Apoſtaſie,</hi> that now clouds it, ſhall come to an end.</p>
+            <p>Let us then in <hi>Concluſion</hi> of the <hi>Matter</hi> magnifie the <hi>Miniſtry</hi> of the <hi>Righteouſneſs</hi> of our Lord Jeſus, as <hi>Excelling in Glory,</hi> 2 <hi>Cor.</hi> 3.9. Great was the <hi>Miniſtery,</hi> that gave us his Great <hi>Sermon</hi> in the <hi>Mount,</hi> his other moſt Powerful <hi>Sermons,</hi> as the <hi>Voice of Thunder;</hi> and that <hi>Prayer</hi> of the <hi>Kingdom,</hi> we ſtyle the <hi>Lord's Prayer,</hi> together with many High Emanations of the <hi>Spirit upon Him,</hi> to <hi>Preach</hi> the <hi>Jubilee</hi> of the <hi>Lord;</hi> But the <hi>Be<g ref="char:EOLhyphen"/>loved Diſciple</hi> gave us the more conſtant <hi>ſtill Voice</hi> of his moſt <hi>Evangelical</hi> diſcourſes, and his <hi>Mediatory Prayer,</hi> ſpreading it ſelf over All. <hi>John</hi> 17.</p>
+            <p>Great was the <hi>Miniſtery</hi> of the <hi>Apoſtle James,</hi> who when He <hi>Appear'd,</hi> as a <hi>Son of Thunder</hi> againſt a <hi>Liveleſs Confeſſion of Faith,</hi> as a <hi>Dead Body;</hi> yet ſo gives the <hi>Working Spirit of Faith,</hi> that He
+<pb n="12" facs="tcp:40235:7"/> dares not deſcribe it, as in the Appearance of <hi>Works</hi> of the <hi>Mo<g ref="char:EOLhyphen"/>ral Law,</hi> leaſt he ſhould eſtabliſh <hi>Works</hi> contrary to the <hi>Spirit</hi> in the <hi>Apoſtle Paul;</hi> but in the Acts of Obedience, as Extraordi<g ref="char:EOLhyphen"/>nary to the <hi>Moral Law,</hi> as <hi>Imputation</hi> of the <hi>Righteouſneſs</hi> of Ano<g ref="char:EOLhyphen"/>ther to us is to it; Nor in a whole Converſation of <hi>Evangelical Obedience,</hi> leaſt He ſhould ſeem to ſet up that in the place of the <hi>Works</hi> of the <hi>Law,</hi> but in ſingle Acts; and thoſe Acts look<g ref="char:EOLhyphen"/>ing to Chriſt; <hi>Abraham ſeeing,</hi> and <hi>Rejoicing</hi> in <hi>Chriſts day</hi> in <hi>Iſaac; Rahab looking</hi> on the <hi>Brazen Serpent,</hi> and not <hi>Periſhing with them that Believed not,</hi> Heb. 11.31. and ſhewing in A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, He did but Explorate by <hi>Works</hi> like it ſelf, for a <hi>Faith</hi> Reach<g ref="char:EOLhyphen"/>ing Chriſt in that Fundamental <hi>Operation</hi> of it, as the <hi>Imma<g ref="char:EOLhyphen"/>nent Spirit</hi> of it;<note n="*" place="margin">The Scrip<g ref="char:EOLhyphen"/>ture was Fulfill'd, which ſaid <hi>long before</hi> Abraham believ'd, &amp;c. And It was Imputed, &amp;c. James <hi>2.23.</hi>
+               </note> and therefore chooſes the <hi>Operation</hi> of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>'s <hi>Faith,</hi> that God ſtay'd, er'e it became a Full <hi>Tranſient</hi> Act, or paſs'd into Full <hi>Work;</hi> that He might no way injure <hi>Infi<g ref="char:EOLhyphen"/>nite Righteouſneſs:</hi> And yet He, who as the <hi>Chief of Forgiven Sinners, Lov'd moſt,</hi> Publiſh'd <hi>Free Grace more Abundantly,</hi> then <hi>They All; Yet not</hi> He, but the <hi>Grace of God with Him;</hi> Let us therefore learn with Him to <hi>Know nothing, but Chriſt, and Him Crucified;</hi> Till in <hi>Robes waſh'd in his Blood,</hi> we ſing that, as it were new Song of <hi>Redemption,</hi> as <hi>Kings,</hi> and <hi>Priests</hi> to the <hi>Fa<g ref="char:EOLhyphen"/>ther on the Throne,</hi> and to the <hi>Lamb,</hi> to whom be Glory for <hi>Ever and Ever,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books ſold by <hi>William Marſhal</hi> at the Bible in <hi>Newgate-ſtreet.</hi>
+            </head>
+            <p>THE Works of Dr. <hi>Criſp,</hi> compleat in 52 Sermons, ſome never before printed.</p>
+            <p>Many Works of Dr. <hi>Owen;</hi> Of the nature of a Goſpel Church and its Government, in Anſwer to the <hi>
+                  <g ref="char:V">Ʋ</g>nreaſonable<g ref="char:EOLhyphen"/>neſs of Separation;</hi> Of the State of <hi>Proteſtant Religion,</hi> lately publiſh'd.</p>
+            <p>The <hi>Catechiſm</hi> of the <hi>Kingdom</hi> of our <hi>Lord Jeſus Chriſt</hi> in the 1000 Years. By the Author of this <hi>Conciliatory Judgment<g ref="char:punc">▪</g>
+               </hi> new<g ref="char:EOLhyphen"/>ly printed.</p>
+            <pb facs="tcp:40235:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
